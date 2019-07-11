@@ -1,0 +1,38 @@
+check IP address - ifconfig
+
+https://www.osboxes.org/centos/#centos-7-1810-info
+Username: osboxes
+Password: osboxes.org
+Root Account Password: osboxes.org
+
+vi commands :
+-----------
+
+b- previous word
+w- next work
+dd- delete a line
+R(shift R) - Replace/Override Mode
+I - Insert mode
+j- down
+k- up
+l- right
+h- left
+esc - command mode to enter any commands
+
+:q- quit, when no changes are done
+:q!- quit with out saving, when any changes are done
+:w - write 
+:wq - Write and exit
+
+edit host name on a computer - vi /etc/hostname
+edit hosts on a computer - vi /etc/hosts
+install ansible in centos - sudo yum install ansible
+install ansible in ubuntu -
+   $ sudo apt update
+   $ sudo apt install software-properties-common
+   $ sudo apt-add-repository --yes --update ppa:ansible/ansible
+   $ sudo apt install ansible
+   
+check groups in which user is there - grep "user-id"  /etc/group OR id user-id
+change a password - sudo -i passwd
+current directory path - pwd
