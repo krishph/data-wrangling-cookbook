@@ -1,0 +1,6 @@
+# Excel is binary; this recipe uses data.csv as a stand-in you can convert
+# by opening in Excel and saving as data.xlsx.
+id,product,units
+1,widget,10
+2,gadget,7
+3,gizmo,5
