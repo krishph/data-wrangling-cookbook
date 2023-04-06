@@ -1,0 +1,5 @@
+id,age,email
+1,34,alice@example.com
+2,-2,bob@example.com
+3,150,invalid
+4,28,
