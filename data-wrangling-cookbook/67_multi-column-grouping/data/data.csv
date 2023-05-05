@@ -1,0 +1,7 @@
+order_id,customer,region,product,quantity,unit_price,order_date
+1001,Alice,East,Book,2,12.5,2025-01-03
+1002,Bob,West,Pen,5,2.0,2025-01-05
+1003,Alice,East,Pen,3,2.0,2025-01-08
+1004,Carla,West,Book,1,12.5,2025-02-02
+1005,Dan,East,Folder,4,3.0,2025-02-04
+1006,Bob,West,Folder,2,3.0,2025-02-10
