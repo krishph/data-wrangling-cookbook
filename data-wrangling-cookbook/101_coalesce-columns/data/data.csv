@@ -1,0 +1,5 @@
+customer_id,primary_email,backup_email
+1,alice@example.com,alice.backup@example.com
+2,,bob@example.com
+3,,
+4,dan@example.com,
