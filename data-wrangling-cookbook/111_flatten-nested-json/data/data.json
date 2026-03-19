@@ -1,0 +1,5 @@
+[
+  {"order_id": 1, "customer": {"customer_id": 101, "city": "Boston"}, "amount": 25},
+  {"order_id": 2, "customer": {"customer_id": 102, "city": "Austin"}, "amount": 40},
+  {"order_id": 3, "customer": {"customer_id": 103, "city": null}, "amount": 15}
+]
