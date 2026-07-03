@@ -1,0 +1,9 @@
+service,latency_ms
+Search,100
+Search,120
+Search,140
+Search,300
+Checkout,80
+Checkout,100
+Checkout,110
+Checkout,200
